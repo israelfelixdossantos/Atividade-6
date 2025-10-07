@@ -14,6 +14,15 @@ namespace Exo.WebApi.Repositories
         {
             _context = context;
         }
+        public Usuario Login(string email, string senha)
+        {
+            var login = _context.Usuarios.FirstOrDefault(u => u.Email == email && u.Senha == senha);
+            if (login == null)
+            {
+                Console.WriteLine($" Usuario {email} não encontrado");
+            }
+            return login;
+        }
         public List<Usuario> Listar()
         {
             return _context.Usuarios.ToList();

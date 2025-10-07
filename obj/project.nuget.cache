@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "On6Xo5P7cvI=",
+  "dgSpecHash": "5TeuFV0xHuI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi3\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi4\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grrif\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\grrif\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

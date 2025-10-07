@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi3\\Exo.WebApi.csproj": {}
+    "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi4\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi3\\Exo.WebApi.csproj": {
+    "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi4\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi3\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi4\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi3\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi4\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\grrif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi3\\obj\\",
+        "outputPath": "C:\\Users\\grrif\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grrif\\AppData\\Roaming\\NuGet\\NuGet.Config"
